@@ -3,7 +3,7 @@
 **PureDrop** is a dynamic web application designed to monitor water quality and manage water tank data efficiently. It is hosted live on InfinityFree.
 
 ## 🔗 Live Demo
-**Visit the website here:** [https://puredrop-db.infinityfree.me](https://puredrop-db.infinityfree.me)
+**Visit the website here:** https://puredrop-db.wuaze.com/
 
 ## 🚀 Features
 
@@ -37,4 +37,4 @@
     * This project is currently deployed and running on **InfinityFree**.
 
 ---
-*Developed by **K Deepika Prabhu,Niali Naik,Mithun** | Team Mind Mappers*
+*Developed by **K Deepika Prabhu,Niali Naik,Theeksha,Preethitha** | Team TechOrbit*
