@@ -37,4 +37,4 @@
     * This project is currently deployed and running on **InfinityFree**.
 
 ---
-*Developed by **K Deepika Prabhu,Niali Naik,Theeksha,Preethitha** | Team TechOrbit*
+*Developed by **K Deepika Prabhu,Nihali Naik,Theeksha,Preethitha** | Team TechOrbit*
